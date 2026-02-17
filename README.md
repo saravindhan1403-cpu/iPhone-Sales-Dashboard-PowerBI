@@ -33,7 +33,3 @@ This Power BI dashboard explores iPhone sales performance to reveal key insights
 
 ## 👨‍💻 Author
 ARAVINDHAN S
-
-
-Saravindhan  
-Aspiring Data Analyst | Power BI Developer
